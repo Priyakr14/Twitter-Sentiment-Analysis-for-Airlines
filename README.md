@@ -12,7 +12,7 @@ Clone or download this Github repository, so you have access to all the Jupyter 
 3. Launch Anaconda and Open a Jupyter Notebook
 Windows: Open the Anaconda Navigator program. You should see the Jupyter Notebook logo. Below the logo, click Launch. A browser window should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open .ipynb files. Follow the instructions in the notebook.
 
-Mac/Linux: Open a terminal. Type jupyter notebook. A browser should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open 0-Hello-World.ipynb. Follow the instructions in the notebook.
+Mac/Linux: Open a terminal. Type jupyter notebook. A browser should open up. In the browser window, navigate to the location of the saved Jupyter Notebook files and open .ipynb files. Follow the instructions in the notebook.
 
 4. Install a Few Additional Packages
 There are a few additional packages we'll be using during the project that are not included when you download Anaconda - wordcloud, textblob and gensim.
